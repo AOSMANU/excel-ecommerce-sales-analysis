@@ -1,4 +1,5 @@
 E-commerce Sales Performance Analysis: Key Findings and Dashboard
+
 This analysis leverages the "Online Retail" dataset, cleaned and prepared using Power Query, to derive actionable insights into sales trends, product performance, and customer behavior.
 
 Sales Performance Analysis
